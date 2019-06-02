@@ -1,0 +1,245 @@
+.custom-logo {
+	height: 80px;
+  width: 80px;
+	margin-top: -12px
+}
+
+.site-header-main {
+	margin-top: -105px;	
+}
+
+.site-branding {
+  margin-right: 40px;
+}
+
+.search-icon {
+	margin-left: 695px;
+}
+
+.search-submit {
+	background-color: #6400aa;
+  border-color: #6400aa;
+  color: white;
+}
+
+.search-field {
+	border-color: #6400aa;
+}
+
+.search-form {
+	margin-right: 13px;
+}
+.main-navigation a {
+	color: #6400aa;
+}
+
+button:hover {
+	/*color: #6400aa;*/
+	color: white;
+	background-color: #6400aa;
+	border-color: #6400aa;
+}
+
+a:hover {
+	color: #6400aa;
+}
+
+.recent-articles, .experts {
+	color: #6400aa;
+	/*margin-top: 17px;*/
+}
+.recent-articles {
+	margin-top: 17px;
+}
+
+/*card*/
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 200px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+  background-color: #f1f1f1;
+  padding-bottom: 31px;
+	margin-right: -140px;
+  height: 210px;
+  width: 210px;
+}
+
+.title {
+  color: grey;
+  font-size: 18px;
+}
+
+.experts-card-img {
+    margin-top: 20px;
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+
+}
+
+.grid-container {
+	 display: -webkit-inline-box;
+	 margin-left: -184px;
+}
+
+.entry-content h5 {
+	margin-top: 10px;
+	/*margin-top: 0.947368em;*/
+	margin-bottom: 10px;
+	/*margin-top: 6px;
+	    color: #6400aa;
+	    font-size: 18px;
+    font-weight: bold;*/
+}
+
+.card-profile-title {
+	 margin-top: 8px;
+}
+
+.n2-section-smartslider {
+	/*margin-top: -168px;*/
+	    margin-top: 10px;
+	    width: 921px;
+}
+    
+/*sub-top-nav*/
+.sub-top-nav {
+	margin-top: -210px;
+	/*margin-top: -209px;*/
+  width: 921px;
+	width: 1192px;
+  margin-left: -182px;
+}
+
+.sub-top-nav ul {
+	list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #6400aa;
+}
+
+.sub-top-nav li {
+  float: left;
+}
+
+.sub-top-nav li a {
+  /*display: block;*/
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.sub-top-nav li a:hover {
+  background-color: #111;
+}
+
+/* profile */
+.profile-container .profile-details {
+	margin-left: calc(100% - 1000px);
+	position: relative;
+	text-align: left;
+	float: right;
+	overflow: hidden;
+	padding: 30px;
+	margin-right: -65px;
+	margin-top: -20px;
+}
+.profile-container .profile-details h1{
+	font-family: 'Old Standard TT', serif;
+	display: inline-block;
+	position: relative;
+	/*font-size: 20px;*/
+	/*margin: 0;*/
+}
+.hint-star {
+	display: inline-block;
+	margin-left: 0.5em;
+	color: gold;
+}
+.profile-container {
+	float: left;
+	margin-top: 17px;
+}
+
+.profile-image {
+	float: left;
+	/*margin-top: 17px;*/
+	    width: 550px;
+    height: 240px;
+    background-color: #f1f1f1;
+}
+.icon1, .icon2, .icon3, .icon4 {
+	/*display:absolute;*/
+	margin-left:35px;
+}
+.profile-container-grid{
+	/*padding-right:70px!important;*/
+}
+.image1, .image2, .image3, .image4 {
+	    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 200px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+    background-color: #f1f1f1;
+    padding-bottom: 31px;
+    margin-right: -92px;
+    margin-top: 17px;
+    height: 110px;
+    width: 166px;
+
+}
+
+.fa fa-folder fa-3x , .fa fa-wrench fa-3x , .fa fa-code-fork fa-3x , .fa fa-users fa-3x  {
+	  margin-left: -40px;
+    margin-top: 10px;
+}
+.fa-3x {
+	    margin-top: 15px;
+    margin-left: -38px;
+	color: #8c8e8e;
+}
+.image2 {
+	margin-top: 17px;
+    margin-left: 137px;
+}
+
+.image4 {
+	    margin-top: 17px;
+}
+
+.image1 {
+	    margin-left: 137px;
+}
+
+.grid-icon-tile {
+	margin-top: 6px;
+	color: #6400aa;
+	font-size: 18px;
+  font-weight: 500;
+}
+
+.profile-name {
+	font-size: 29px;
+/*  margin-left: -18px;*/
+	    margin-right: 134px;
+}
+
+.profile-rating {
+	margin-top: 27px;
+}
+
+.profile-title-role {
+	margin-top: -34px;
+  font-size: large;
+	margin-left: 5px;	
+}
+.profile-title-position{
+	margin-top: -38px;
+  font-size: smaller;
+  margin-left: 5px;	
+}
