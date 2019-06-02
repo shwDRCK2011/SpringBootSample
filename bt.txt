@@ -1,0 +1,145 @@
+//section 1
+<div class="sub-top-nav">
+<ul>
+  <li><a class="active" href="#home">Home</a></li>
+  <li><a href="#news">News</a></li>
+  <li><a href="#contact">Contact</a></li>
+  <li><a href="#about">About</a></li>
+</ul>
+</div>
+
+//section2 slider
+[smartslider3 alias="main-slider"]
+
+//section3 col1
+<div class="profile-container">
+<div class="profile-image">
+<img src="http://localhost:8080/BTWordpress/wp-content/uploads/2019/06/profilepic.jpg" width="245px" height="240px" style="
+    height: 240px; alt="Omar Dsoky">
+<div class="profile-details">
+<h1 class="profile-name">Landon Scott</h1>
+<p class="profile-title-role">
+Senior Consultant</p>
+<p class="profile-title-position">
+User Experience</p>
+<div class="profile-rating">
+<span class="hint-star star" style="
+    margin-left: 1px;>
+[icon name="star"]
+[icon name="star"]
+[icon name="star"]
+[icon name="star"]
+[icon name="star"]
+[icon name="star-half-o"]
+</span>
+</div>
+</div>
+</div>
+</div>
+
+//section3 col2
+<div class="profile-container-grid">
+<div class="image1">
+<span class="icon1">
+[icon name="folder" class="fa-3x"]
+</span>
+<h5 class="grid-icon-tile">My Projects</h5>
+</div>
+<div class="image2">
+<span class="icon2">
+[icon name="wrench" class="fa-3x"]
+</span>
+<h5 class="grid-icon-tile">Technologies</h5>
+</div>
+</div>
+
+//section3 col3
+<div class="profile-container-grid">
+<div class="image3">
+<span class="icon3">
+[icon name="code-fork" class="fa-3x"]
+</span>
+<h5 class="grid-icon-tile">My Squads</h5>
+</div>
+<div class="image4">
+<span class="icon4">
+[icon name="users" class="fa-3x"]
+</span>
+<h5 class="grid-icon-tile">Community</h5>
+</div>
+</div>
+
+//section4
+<h3 class="recent-articles" style="
+    margin-top: -8px;">Recent Articles</h3>
+	
+//section5
+<div id="carousel-example-multi" class="carousel slide carousel-multi-item v-2" data-ride="carousel">
+  <div class="carousel-inner v-2" role="listbox">
+
+    <div class="carousel-item active">
+      <div class="col-12 col-md-4">
+        <div class="card mb-2">
+ 
+          <div class="card-body">
+            <span class="label success">Success</span>
+            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the
+              card's content.</p>
+            <a class="btn btn-primary btn-md btn-rounded">Button</a>
+          </div>
+        </div>
+      </div>
+    </div>
+	
+	 <div class="carousel-item ">
+      <div class="col-12 col-md-4">
+        <div class="card mb-2">
+          
+          <div class="card-body">
+            <h4 class="card-title font-weight-bold">Card title</h4>
+            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the
+              card's content.</p>
+            <a class="btn btn-primary btn-md btn-rounded">Button</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+  </div>
+
+</div>
+
+//section6
+<h3 class="experts">Experts</h3>
+
+//section7
+<div class="grid-container">
+<div class="card">
+  <img src="http://localhost:8080/BTWordpress/wp-content/uploads/2019/06/profilepic.jpg" alt="John" class="experts-card-img">
+  <h5 class="card-profile-name">John Doe</h5>
+  <p class="card-profile-title">CEO &amp; Founder, Example</p> 
+</div>
+<div class="card">
+  <img src="http://localhost:8080/BTWordpress/wp-content/uploads/2019/06/profile1.jpg" alt="John" class="experts-card-img">
+  <h5 class="card-profile-name">John Doe</h5>
+  <p class="card-profile-title">CEO &amp; Founder, Example</p> 
+</div>
+<div class="card">
+  <img src="http://localhost:8080/BTWordpress/wp-content/uploads/2019/06/profile1.jpg" alt="John" class="experts-card-img">
+  <h5 class="card-profile-name">John Doe</h5>
+  <p class="card-profile-title">CEO &amp; Founder, Example</p> 
+</div>
+<div class="card">
+  <img src="http://localhost:8080/BTWordpress/wp-content/uploads/2019/06/profile1.jpg" alt="John" class="experts-card-img">
+  <h5 class="card-profile-name">John Doe</h5>
+  <p class="card-profile-title">CEO &amp; Founder, Example</p> 
+</div>
+</div>
+
+//section8
+<h3 class="experts" style="
+    margin-top: 20px;
+">Our GDCs</h3>
+
+//section9 -- map
+[wpgmza id="1"]
